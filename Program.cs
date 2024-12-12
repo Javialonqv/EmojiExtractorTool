@@ -46,6 +46,10 @@ namespace EmojiExtractorTool
                 case '1':
                     LanguageManager.Init("English");
                     break;
+
+                case '2':
+                    LanguageManager.Init("Spanish");
+                    break;
             }
         }
 

@@ -13,6 +13,10 @@ public static class LanguageManager
             case "English":
                 LoadTranslationsJSON("en-us.json");
                 break;
+
+            case "Spanish":
+                LoadTranslationsJSON("es-mx.json");
+                break;
         }
 
         Console.Title = GetTranslation("title");

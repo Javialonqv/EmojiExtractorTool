@@ -9,10 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Languages\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <None Update="Languages\es-mx.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Languages\en-us.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

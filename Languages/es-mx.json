@@ -1,0 +1,18 @@
+{
+  "title": "Emoji Extractor Tool",
+  "translators": "Traducido por Javialon_qv",
+  "welcome": "Bienvenido a Discord Emoji Extractor Tool",
+  "function": "Esta herramienta extraerá todos los emojis de cualquier servidor de Discord",
+  "howToUse": "Para extraerlos solo necesitas tener el ID del emoji",
+  "firstInstruction": "Por favor, ingresa el ID del emoji que deseas extraer",
+
+  "chooseOutputFormat": "Escoge un formato de salida para el emoji:",
+  "choosenFormat": "Formato escogido:",
+
+  "askForOutputPath": "¿En que carpeta deseas guardar el emoji extraído?",
+  "outputPathOption1": "[1] Carpeta Predeterminada (/Extracted_Emojis)",
+  "outputPathOption2": "[2] Carpeta Personalizada",
+
+  "insertCustomPath": "Ingresa la ruta a la carpeta personalizada: ",
+  "final": "¡ARCHIVO DESCARGADO! Pulsa calquier tecla para continuar..."
+}
